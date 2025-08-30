@@ -6,7 +6,7 @@ This project is designed with a clean UI and smooth button interactions — work
 ---
 
 ## 🚀 Live Demo
-👉 [Try it here](https://<your-github-username>.github.io/<repo-name>/)
+👉 [Try it here]( https://pankayadav9555.github.io/calculator/)
 
 *(Replace `<your-github-username>` and `<repo-name>` with your GitHub details.)*
 
